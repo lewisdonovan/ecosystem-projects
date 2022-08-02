@@ -1,0 +1,15 @@
+{
+    "name": "SonX",
+    "slug": "sonx",
+    "date": "2022-08-02",
+    "highlight": "SonX is a next-generation fandom platform, that empowers musicians to generate sustainable revenue around their art, nurture rich communities for their superfans, and create a new value chain that rewards everyone.",
+    "logo": "/img/sonx.jpg",
+    "tags": ["art", "avalanche native", "culture", "dapp", "ecosystem", "marketplace", "nft", "play-to-earn", "trading", "utility", "wallet"],
+    "status": "coming soon",
+    "website": "https://sonx.com/",
+    "twitter": "https://twitter.com/sonx",
+    "summary": "SonX puts powerful community, commerce and Web3 tools in the hands of musicians, enabling them to build closer relationships with their superfans, create a sustainable and reliable income, and create the content that they want to create.",
+    "telegram": "https://telegram.sonx.com",
+    "discord": "https://discord.sonx.com",
+    "docs":"https://whitepaper.sonx.com"
+}
